@@ -1,0 +1,2 @@
+# MSP430FR5949-DIVECOMPUTER
+divecomputer using msp430fr5949IDA MCU
